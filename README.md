@@ -6,4 +6,4 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br>I got to have hands on experience on:
 <li>HTML
 <li>CSS
-<br>during these 7 days, and everything was explained from the very.
+<br>during these 7 days, and everything was explained from the very basics.
